@@ -48,7 +48,21 @@ I’m a creative **UI/UX Designer and Full-Stack Developer** passionate about tr
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Saumya29singh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 🚧 Smart Hazard Detection System
+A MERN-based platform for detecting, reporting, tracking, and managing road hazards with responsive UI and secure backend APIs.
+
+**Tech:** HTML • CSS • JavaScript • React • Node.js • Express • MongoDB
+
+🔗 [View Repository](https://github.com/Saumya29singh/Smart-Hazard-Detection-System)
+
 ---
+
+### 🎥 IntelliMeet — MERN WebRTC AI
+A full-stack meeting and collaboration platform featuring real-time video conferencing, team chat, AI-powered meeting summaries, and action-item extraction.
+
+**Tech:** React • JavaScript • Node.js • Express • MongoDB • WebRTC • AI
+
+🔗 [View Repository](https://github.com/Saumya29singh/IntellMeet-MERN-WebRTC-AI)
 [![](https://komarev.com/ghpvc/?username=Saumya29singh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
