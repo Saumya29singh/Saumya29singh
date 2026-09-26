@@ -1,50 +1,28 @@
-<h1 align="center">Hi 👋, I'm Saumya Singh</h1>
-<h3 align="left">💫 About Me
-I'm a passionate developer who loves building creative projects and learning new technologies.
-Currently exploring Python, Game Development, and Data Science.</h3>
-<h2 align="center">where code meets chaos</h2>
+# 💫 About Me:
+## 👋 About Me<br><br>Hi, I'm **Saumya Singh** — a creative **UI/UX Designer and Full-Stack Developer** passionate about turning ideas into engaging digital experiences.<br><br>🎨 I enjoy designing clean, user-friendly interfaces and bringing them to life through code.<br>💻 I work with **React, JavaScript, Node.js, Express, MongoDB, HTML & CSS**.<br>✨ I'm also experienced with **Figma, Canva, Photoshop, and Branding**.<br>🏆 **SIH 2025 Winner** and an active **hackathon enthusiast**.<br>🚀 Currently exploring **AI integration, full-stack development, and creative product design**.<br><br>I love learning, experimenting with new technologies, and building projects that solve real-world problems.<br>
 
-<h3 align="left">🧠 Currently Working On:</h3>
-<ul>
-  <li>🚀 Building Python & mini AI projects</li>
-  <li>🎮 Learning Game Development (Unity / Python)</li>
-  <li>📊 Exploring Data Science concepts</li>
-  <li>⚡ Improving problem-solving & coding skills</li>
-  <li>🔥 Working on real-world project ideas</li>
-</ul>
 
-<hr>
-<h3 align="left">📌 Previously Built:</h3>
-<ul>
-  <li>💻 Built basic Python projects (logic building & mini apps)</li>
-  <li>🎨 Designed UI/UX layouts using Figma</li>
-  <li>🌐 Created simple responsive websites (HTML, CSS, JS)</li>
-  <li>⚡ Practiced problem-solving & coding fundamentals</li>
-  <li>🚀 Explored real-world project structures & workflows</li>
-</ul>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/saumyasingh0731) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saumya-singh-1aa642365) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/queensaumya2006) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Traditionl_Pilot_9) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SaumyaSingh50075) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:queensaumya2006) 
 
-<hr>
-  <h3 align="left">🚀 Career Snapshot:</h3>
-<ul>
-  <li>🎓 BTech student grinding daily 💻</li>
-  <li>🎨 Into UI/UX + clean aesthetic designs</li>
-  <li>🚀 Building Python & creative dev projects</li>
-  <li>📊 Exploring Data Science & AI vibes</li>
-  <li>🎮 Learning Game Dev (future creator arc 🎯)</li>
-  <li>🔥 Mission: Become Game Dev + Data Scientist</li>
-</ul>
-<hr>
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Saumya29singh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Saumya29singh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saumya29singh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<h3 align="left">🛠️Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Saumya29singh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saumyasing50075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saumyasing50075" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saumya singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saumya singh" height="30" width="40" /></a>
-<a href="https://kaggle.com/itme2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="itme2006" height="30" width="40" /></a>
-</p>
-<hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saumya29singh&label=Profile%20views&color=0e75b6&style=flat" alt="saumya29singh" /> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Saumya29singh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=Saumya29singh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
