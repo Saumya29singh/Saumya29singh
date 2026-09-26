@@ -1,5 +1,29 @@
-# 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm **Saumya Singh** — a creative **UI/UX Designer and Full-Stack Developer** passionate about turning ideas into engaging digital experiences.<br><br>🎨 I enjoy designing clean, user-friendly interfaces and bringing them to life through code.<br>💻 I work with **React, JavaScript, Node.js, Express, MongoDB, HTML & CSS**.<br>✨ I'm also experienced with **Figma, Canva, Photoshop, and Branding**.<br>🏆 **SIH 2025 Winner** and an active **hackathon enthusiast**.<br>🚀 Currently exploring **AI integration, full-stack development, and creative product design**.<br><br>I love learning, experimenting with new technologies, and building projects that solve real-world problems.<br>
+<div align="center">
+
+# 💫 About Me
+
+### 👋 Hi, I'm **Saumya Singh**
+
+**UI/UX Designer • Full-Stack Developer • Creative Technologist**
+
+<br>
+
+I’m a creative **UI/UX Designer and Full-Stack Developer** passionate about transforming ideas into engaging and meaningful digital experiences.
+
+<br>
+
+🎨 **Design** — Creating clean, intuitive and user-friendly interfaces
+💻 **Development** — React, JavaScript, Node.js, Express, MongoDB, HTML & CSS
+✨ **Creative Tools** — Figma, Canva, Photoshop & Branding
+🏆 **Achievement** — SIH 2025 Winner & Hackathon Enthusiast
+🚀 **Currently Exploring** — AI Integration, Full-Stack Development & Product Design
+
+<br>
+
+*I love learning, experimenting with new technologies, and building creative solutions to real-world problems.*
+
+</div>
+
 
 
 ## 🌐 Socials:
